@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b86d29a45e0e259d3ce8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "06_qdial",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "06_qdial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_qdial-Debug-f5b6285ce6b77b3b7023.json",
+					"name" : "06_qdial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_qdial_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_qdial_autogen-Debug-b5747c03a1c3d131ca5c.json",
+					"name" : "06_qdial_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06_qdial_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06_qdial_autogen_timestamp_deps-Debug-df9f857bc3aa9288b2c7.json",
+					"name" : "06_qdial_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/liu/Desktop/Qt_Demo/06_qdial/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/liu/Desktop/Qt_Demo/06_qdial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
